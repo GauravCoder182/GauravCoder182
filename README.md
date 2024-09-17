@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey there, I'm Gaurav Pathak!</h1>
-  <p>Welcome to my coding playground! 🚀 I'm a passionate Full Stack Developer with a knack for building exceptional web and mobile applications.</p>
-  <p>Join me on this coding journey where I:</p>
+  <p>Welcome to my coding playground! 🚀 I'm a passionate Full Stack Developer.</p>
+  <p>Join me on this coding journey:</p>
  
   <h3>📫 How to reach me:</h3>
   <p>Email: gauravpathak182@gmail.com</p>
